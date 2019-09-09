@@ -1,6 +1,6 @@
 {
   "name": "mqtt-experiments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Playing around mqtt to build ir tx/rx controlled via web.",
   "main": "index.js",
   "scripts": {
